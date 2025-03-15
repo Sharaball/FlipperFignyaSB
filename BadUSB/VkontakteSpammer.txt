@@ -1,0 +1,596 @@
+REM Spam Message "Vkontakte" (tested on telegram)
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
+STRING Vkontakte
+ENTER
+STRING Vkontakte
+ENTER
+
